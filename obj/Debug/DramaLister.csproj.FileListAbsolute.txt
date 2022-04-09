@@ -1,0 +1,15 @@
+D:\Projects\repos\DramaLister\bin\Debug\DramaLister.exe.config
+D:\Projects\repos\DramaLister\bin\Debug\DramaLister.exe
+D:\Projects\repos\DramaLister\bin\Debug\DramaLister.pdb
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.csprojAssemblyReference.cache
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.Drama_Lister_Start.resources
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.Properties.Resources.resources
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.csproj.GenerateResource.cache
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.csproj.CoreCompileInputs.cache
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.exe
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.pdb
+D:\Projects\repos\DramaLister\bin\Debug\DramaLister.exe.manifest
+D:\Projects\repos\DramaLister\bin\Debug\DramaLister.application
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.exe.manifest
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.application
+D:\Projects\repos\DramaLister\obj\Debug\DramaLister.DramaListView.resources
